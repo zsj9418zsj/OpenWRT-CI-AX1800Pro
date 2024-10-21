@@ -37,7 +37,7 @@ UPDATE_PACKAGE "luci-app-gecoosac" "lwb1978/openwrt-gecoosac" "main"
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 UPDATE_PACKAGE "luci-app-wolplus" "VIKINGYFY/luci-app-wolplus" "main"
 
-UPDATE_PACKAGE "luci-app-parentcontrol" "sirpdboy/luci-app-parentcontrol" "main"
+#UPDATE_PACKAGE "luci-app-parentcontrol" "sirpdboy/luci-app-parentcontrol" "main"
 
 # 添加iStore商店
 UPDATE_PACKAGE "nas-packages" "linkease/nas-packages" "master"
